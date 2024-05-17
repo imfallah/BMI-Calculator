@@ -4,7 +4,7 @@
 <h1 align="center"> BMI Calculator</h1>
 
 
-### 🌏 Readme in [فارسی](https://github.com/jokernets/face-plot/tree/main/Fa.md)
+### 🌏 Readme in [فارسی](https://github.com/jokernets/BMI-Calculator/blob/main/translation/Fa.md)
 
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>

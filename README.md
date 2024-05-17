@@ -9,7 +9,7 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 <p align="center">
-<img src="https://img.shields.io/badge/language-python-blue?style"/><img src="https://img.shields.io/github/stars/jokernets/face-plot"/><img src="https://img.shields.io/github/forks/jokernets/face-plot"/>
+<img src="https://img.shields.io/badge/language-python-blue?style"/><img src="https://img.shields.io/github/stars/jokernets/BMI-Calculator"/><img src="https://img.shields.io/github/forks/jokernets/BMI-Calculator"/>
 </p>
 
    
